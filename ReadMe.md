@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm a backend-focused developer with **3.7+ years** of experience delivering scalable, production-ready solutions in healthcare, SaaS, and e-commerce. I specialize in:
+I'm a backend-focused developer with **4+ years** of experience delivering scalable, production-ready solutions in healthcare, SaaS, and e-commerce. I specialize in:
 
 - **Real-time systems** (MQTT, WebSocket)
 - **Medical robotics** (remote ultrasound, telemetry dashboards)
