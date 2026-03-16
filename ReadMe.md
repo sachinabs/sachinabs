@@ -1,80 +1,104 @@
 <h1 align="center">Hi 👋 I'm Anish Bala Sachin</h1>
 <p align="center">
-  Backend Developer | Node.js | Real-Time Systems | MedTech | AWS
+  Full-Stack Developer | Node.js | React | System Design | Developer Tools
 </p>
 
 <p align="center">
   <a href="https://github.com/sachinabs"><img src="https://komarev.com/ghpvc/?username=sachinabs&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views"/></a>
   <a href="mailto:sachinabs.js@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/anish-bala-sachin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/sachinabs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://twitter.com/sachinabs_JS"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a backend-focused developer with **4+ years** of experience delivering scalable, production-ready solutions in healthcare, SaaS, and e-commerce. I specialize in:
+I'm a **Full-Stack Developer with 4+ years of experience** building scalable backend systems and modern web applications.
 
-- **Real-time systems** (MQTT, WebSocket)
-- **Medical robotics** (remote ultrasound, telemetry dashboards)
-- **Cloud-native architecture** (AWS, Docker, GitHub Actions)
-- **Automation & AI integration** (cron-based CV/genAI reports)
+I mainly work with **Node.js, React, and cloud-based architectures**, focusing on performance, clean APIs, and real-world production systems.
 
-🚀 I’m passionate about developer tooling, healthcare innovation, and building systems that improve people's lives.
+My work includes:
+
+- ⚡ **Backend systems & APIs** using Node.js and Express
+- 🔄 **Real-time communication systems** using MQTT and WebSockets
+- 📚 **Interactive e-learning platforms** with dynamic content rendering
+- 🧰 **Developer tools & CLI utilities** for improving developer productivity
+- ☁️ **Cloud deployments** using AWS, Docker, and automated pipelines
+
+I enjoy building **practical tools, scalable platforms, and clean backend systems** that solve real problems.
 
 ---
 
 ## ⚒️ Tech Stack
 
 **Languages**  
-JavaScript (ES6+), TypeScript, Python, C#, Java  
+JavaScript (ES6+), TypeScript, Python
 
-**Frameworks & Tools**  
-Node.js, Express.js, NestJS, React.js, Prisma ORM, Docker, PM2  
+**Backend**  
+Node.js, Express.js, NestJS
 
-**Real-Time & Messaging**  
-MQTT, WebSocket, RabbitMQ  
-
-**Cloud & DevOps**  
-AWS (EC2, S3, SES, Lambda), GitHub Actions, Nginx  
+**Frontend**  
+React.js, Next.js
 
 **Databases**  
-MongoDB, MySQL, Redis, SQLite  
+MongoDB, MySQL, Redis
 
-**Security & APIs**  
-JWT Auth, REST APIs, Multer, Secure S3 handling  
+**Real-Time Systems**  
+MQTT, WebSockets
 
-**Other**  
-Flutter integration, Automation Pipelines, Chrome Extensions  
+**Cloud & DevOps**  
+AWS (EC2, S3, SES), Docker, Nginx, GitHub Actions
+
+**Tools & Other**  
+Prisma ORM, PM2, REST APIs, CLI tools, Automation scripts
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🔁 [port-fix-cli (npm)](https://www.npmjs.com/package/port-fix-cli)
-A CLI tool to list and kill busy ports across Windows, macOS, and Linux.  
-Used by developers to quickly troubleshoot port conflicts.
+### 📁 express-flex-file-server  
+Flexible middleware for **secure file serving in Express.js applications**.
+
+Features include:
+
+- Secure static file serving
+- Flexible path configuration
+- Stream-based delivery
+- Easy integration with existing Express apps
+
+🔗 https://www.npmjs.com/package/express-flex-file-server
+
+---
+
+### 🧰 port-fix-cli  
+CLI tool that detects and kills processes occupying a specific port across **Windows, macOS, and Linux**.
+
+Helps developers quickly resolve port conflicts during development.
 
 > `npm install -g port-fix-cli`
 
 ---
 
-### 📄 [PDF Highlight Extractor (PyPI)](https://pypi.org/project/pdf-highlight-extractor/)
-Extracts highlighted text from PDF documents using PyMuPDF.  
-Useful for researchers to summarize and annotate academic papers.  
-Returns highlight color, page number, and content.
+### 📚 Interactive E-Learning Reader System
+
+A system that allows teachers to create **interactive book-style content** using a web editor.
+
+Architecture includes:
+
+- Web editor exporting structured content
+- Backend storage on AWS
+- Mobile reader app rendering dynamic content
+
+Focused on **high-performance rendering and native-like reading experience**.
 
 ---
 
-### 🩺 [Telemedicine Dashboard – UI Concept](https://www.behance.net/gallery/216164343/Tele-Medicine-Application)
-A responsive UI for inpatient remote care with real-time vitals, appointment scheduling, and QR-based updates.  
-Data flow designed with MQTT + WebSocket for real-time telemetry.
+### 📄 PDF Highlight Extractor
 
----
+Python utility that extracts highlighted text from PDF documents.
 
-### 📘 [Digital Journal UX Case Study](https://www.behance.net/gallery/221342285/Digital-Journal-App-UX-Case-Study-Calendar-Memories)
-A calming journaling app UI that helps users reflect on memories through design-focused habit tracking and emotion mapping.
+Useful for **researchers and students** to quickly collect highlighted notes from PDFs.
 
 ---
 
@@ -89,12 +113,12 @@ A calming journaling app UI that helps users reflect on memories through design-
 
 ## 📫 Connect With Me
 
-- 📧 Email: [sachinabs.js@gmail.com](mailto:sachinabs.js@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anish-bala-sachin/)  
-- 🎨 [Behance](https://www.behance.net/forever_abs_)  
-- 🐍 [PyPI](https://pypi.org/project/pdf-highlight-extractor/)  
-- 📦 [npm](https://www.npmjs.com/package/port-fix-cli)  
+- 📧 Email: sachinabs.js@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/anish-bala-sachin/  
+- 📦 npm: https://www.npmjs.com/package/port-fix-cli  
+- 📁 npm: https://www.npmjs.com/package/express-flex-file-server  
+- 🐍 PyPI: https://pypi.org/project/pdf-highlight-extractor/  
 
 ---
 
-_✨ Bonus: I also enjoy design, photography, and hiking offline — code and creativity go hand-in-hand!_
+⭐ I enjoy building **developer tools, scalable backend systems, and useful software that solves real-world problems.**
