@@ -1,643 +1,502 @@
-````markdown
 <h1 align="center">Hi 👋 I'm Anish Bala Sachin</h1>
 
 <p align="center">
-  Generative AI Engineer | LLMs | RAG | AI Agents | Python | Backend Engineering
+  <b>Generative AI Engineer | Python | LLMs | RAG | AI Agents</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sachinabs">
-    <img src="https://komarev.com/ghpvc/?username=sachinabs&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile views"/>
-  </a>
-  <a href="mailto:anishbalasachin.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anish-bala-sachin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/sachinabs_JS">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+  Building AI systems so humans can finally stop doing things manually. 🤖
+</p>
+
+<p align="center">
+  <i>Yes, I use AI to build AI. We have officially reached that stage.</i> 😂
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Generative AI Engineer with 4+ years of software development experience**, focused on building **LLM-powered applications, Retrieval-Augmented Generation systems, AI agents, and production-ready AI solutions**.
+I'm a Software Engineer with 4+ years of industry experience, currently focused on **Generative AI and LLM application development**.
 
-I combine my background in **backend engineering, API development, and system design** with modern Generative AI technologies to build scalable and reliable AI applications.
+I work on turning:
 
-My current areas of focus include:
+**"Can we build this with AI?"**
 
-* 🤖 Large Language Model applications
-* 📚 Retrieval-Augmented Generation (RAG)
-* 🔎 Vector search and semantic retrieval
-* 🧠 AI agents and agentic workflows
-* 🛠️ Tool calling and function calling
-* 📄 Document intelligence
-* 🎙️ Speech-to-text and LLM pipelines
-* 🧩 Structured output generation
-* 🔬 LLM evaluation and optimization
-* 🐍 Python and FastAPI
-* ⚡ Node.js and backend engineering
-* ☁️ AWS and containerized AI applications
+into:
 
-I enjoy transforming **real-world problems into practical AI applications** rather than building AI systems only as experiments.
+**"Why is this working? Don't touch it."** 😭
 
----
+My current obsession includes:
 
-## 🤖 Generative AI Tech Stack
+- 🤖 Generative AI & LLM Applications
+- 🧠 AI Agents & Multi-Agent Systems
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🔗 LangChain & LangGraph
+- 🛠️ Tool Calling & MCP
+- 🐍 Python & FastAPI
+- 📚 Vector Databases & Embeddings
+- ✍️ Prompt Engineering
+- ☁️ AWS & Cloud AI
+- 🚀 Production AI Systems
 
-### Languages
-
-Python • JavaScript • TypeScript
-
-### Generative AI
-
-Large Language Models • Prompt Engineering • Retrieval-Augmented Generation • AI Agents • Agentic Workflows • Function Calling • Tool Calling • Structured Outputs • Few-Shot Learning • Zero-Shot Learning
-
-### LLM Providers
-
-OpenAI • Anthropic • Ollama • Open-Source LLMs • AWS Bedrock
-
-### RAG & Knowledge Systems
-
-Document Ingestion • Chunking • Recursive Chunking • Semantic Chunking • Embeddings • Vector Search • Semantic Search • Metadata Filtering • Context Retrieval • Reranking • Grounded Generation
-
-### AI Frameworks
-
-LangChain • LangGraph • Hugging Face Transformers • LlamaIndex • Pydantic
-
-### Vector Databases
-
-FAISS • Pinecone • ChromaDB • OpenSearch
-
-### LLM Optimization
-
-Temperature Tuning • Top-K Sampling • Top-P Sampling • Token Optimization • Prompt Optimization • Hallucination Reduction • Context Grounding
-
-### Machine Learning
-
-Scikit-learn • Pandas • NumPy • Feature Engineering • Exploratory Data Analysis • Model Evaluation
-
-### Backend
-
-Python • FastAPI • Node.js • Express.js • REST APIs • WebSockets
-
-### Frontend
-
-React.js • Next.js
-
-### Databases
-
-MongoDB • MySQL • PostgreSQL • Redis
-
-### Cloud & DevOps
-
-AWS • EC2 • S3 • Lambda • Bedrock • Docker • Nginx • Jenkins • GitHub Actions • Linux • PM2
+Basically, I spend my time convincing LLMs to **answer questions without confidently making things up.**
 
 ---
 
-# 🚀 Personal Generative AI Projects
+# 🚀 What I Work With
+
+## 🤖 Generative AI
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Few-shot & Zero-shot Prompting
+- Function / Tool Calling
+- AI Agents
+- Multi-Agent Systems
+- LangChain
+- LangGraph
+- Hugging Face Transformers
+- OpenAI APIs
+- AWS Bedrock
+
+> **LLM:** "I think this is the answer."  
+> **Me:** "Based on what?"  
+> **LLM:** "Trust me bro."  
+> **Me:** "That's why we have RAG." 😂
+
+---
+
+## 🔍 RAG & Search
+
+- FAISS
+- Pinecone
+- ChromaDB
+- OpenSearch
+- Embeddings
+- Semantic Search
+- Hybrid Search
+- Recursive Chunking
+- Semantic Chunking
+- Document Structure-based Chunking
+- Context Grounding
+- Hallucination Reduction
+- Retrieval Evaluation
+
+> Take a 500-page PDF → split it into tiny pieces → convert everything into vectors → search those vectors → ask an LLM → pray it actually read the right chunk. 🙏
+
+---
+
+## 🧠 AI Agents
+
+- Agentic Workflows
+- Multi-Agent Architecture
+- LangGraph
+- Tool Calling
+- Function Calling
+- Agent Routing
+- State Management
+- Human-in-the-Loop
+- Workflow Orchestration
+
+> One LLM wasn't confused enough, so I introduced **five agents** and gave them responsibilities. 🤝😂
+
+---
+
+## 🐍 Backend & APIs
+
+- Python
+- FastAPI
+- Node.js
+- Express.js
+- REST APIs
+- WebSockets
+- API Integration
+
+> Backend: where frontend requests come to become backend problems. 😌
+
+---
+
+## ☁️ Cloud & DevOps
+
+- AWS
+- Amazon S3
+- Amazon EC2
+- AWS Lambda
+- AWS Bedrock
+- Docker
+- Git
+- GitHub
+- Jenkins
+
+> It works perfectly on my machine.
+
+> **Docker:** "Not anymore." 😂
+
+---
+
+## 📊 Data & ML
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Data Processing
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis
+
+> Data cleaning: spending 80% of the time discovering that someone stored numbers as strings. 🤦
+
+---
+
+## 🎨 Frontend
+
+React.js • Next.js • Tailwind CSS
+
+> Frontend: I know enough to make it work, look good, and not call the backend team every 5 minutes. 😂
+
+> If the UI looks weird, it's probably a CSS problem.  
+> If the API doesn't work, it's definitely a backend problem.  
+> If both work, it must be the network. 😌
+
+---
+
+# 🧪 Personal AI Projects
 
 ## 🤖 Multi-Agent Research Assistant
 
-A personal Generative AI project exploring **multi-agent systems** where specialized agents collaborate to research a topic, retrieve information, validate findings, and generate a structured response.
+A multi-agent AI system that breaks complex research questions into smaller tasks and lets specialized agents handle the chaos.
 
-### Key Features
+### What it does
 
-* 🧠 Multi-agent architecture
-* 🔀 Agent workflow orchestration
-* 🔎 Information retrieval
-* 📚 Retrieval-Augmented Generation
-* 🛠️ Tool calling
-* 🔗 API integrations
-* 📋 Structured outputs
-* ✅ Response validation
-* 🔄 Agent state management
-* 🧩 Multi-step AI workflows
+- 🧠 Query decomposition
+- 🔎 Web / document retrieval
+- 📚 RAG-based research
+- 🤖 Multiple specialized agents
+- 🔗 LangGraph orchestration
+- 🛠️ Tool calling
+- 📝 Source-based answer generation
+- 👤 Human-in-the-loop approval
 
-### Architecture
+### Tech Stack
 
-```text
-                       User Query
-                           │
-                           ▼
-                  ┌─────────────────┐
-                  │   Orchestrator  │
-                  │      Agent      │
-                  └────────┬────────┘
-                           │
-          ┌────────────────┼────────────────┐
-          ▼                ▼                ▼
-   Research Agent   Retrieval Agent   Validation Agent
-          │                │                │
-          ▼                ▼                ▼
-    External Data    Vector Search     Quality Check
-          │                │                │
-          └────────────────┼────────────────┘
-                           ▼
-                    Context Builder
-                           │
-                           ▼
-                          LLM
-                           │
-                           ▼
-                    Final Response
-````
+`Python` `LangGraph` `LangChain` `LLMs` `RAG` `Vector DB` `FastAPI`
+
+> Because apparently asking one LLM to do everything wasn't stressful enough. 😅
 
 ---
 
-## 📄 Private Document Intelligence Platform
+## 📚 Private Document Intelligence Platform
 
-A personal RAG application that allows users to upload documents and interact with them using natural language.
+A RAG-based application that allows users to upload documents and interrogate them.
 
-The system converts documents into searchable knowledge and uses semantic retrieval to provide grounded answers.
+Because apparently reading the document yourself is no longer acceptable.
 
-### Key Features
+### Features
 
-* 📄 PDF and document ingestion
-* ✂️ Recursive chunking
-* 🧠 Embedding generation
-* 🔎 Semantic search
-* 🗃️ Vector database storage
-* 🏷️ Metadata filtering
-* 📚 Retrieval-Augmented Generation
-* 💬 Conversational question answering
-* 📝 Context-grounded responses
-* 🚨 Hallucination reduction
-* 📌 Source-aware responses
+- 📄 PDF / document ingestion
+- ✂️ Intelligent document chunking
+- 🧠 Embedding generation
+- 🔎 Semantic search
+- 📦 Vector database storage
+- 🤖 LLM-powered Q&A
+- 📌 Context-grounded responses
+- 🚫 Hallucination reduction
+- 💬 Conversational document search
 
-### Architecture
+### Tech Stack
+
+`Python` `FastAPI` `LangChain` `FAISS` `Pinecone` `LLMs`
+
+> Upload a 200-page document.
+
+> Ask: **"What does page 137 say?"**
+
+> Congratulations. You have invented a very expensive Ctrl+F. 😂
+
+---
+
+## 🎙️ Voice-to-Structured Data AI
+
+An AI application that converts natural human speech into structured JSON.
+
+Because humans refuse to speak in JSON.
+
+### Pipeline
 
 ```text
-                     Document Upload
-                           │
-                           ▼
-                    Document Parser
-                           │
-                           ▼
-                       Chunking
-                           │
-                           ▼
-                    Embedding Model
-                           │
-                           ▼
-                    Vector Database
-                           │
-                           │
-                     User Question
-                           │
-                           ▼
-                    Query Embedding
-                           │
-                           ▼
-                  Semantic Retrieval
-                           │
-                           ▼
-                    Context Builder
-                           │
-                           ▼
-                           LLM
-                           │
-                           ▼
-                    Grounded Answer
-```
+Voice Input
+     ↓
+Speech-to-Text
+     ↓
+LLM Processing
+     ↓
+Information Extraction
+     ↓
+Validation
+     ↓
+Structured JSON
+````
+
+### Features
+
+* 🎙️ Speech recognition
+* 🧠 LLM-based extraction
+* 📋 Structured output
+* ✅ Schema validation
+* 🔍 Missing-field detection
+* 👤 Human review workflow
+
+### Tech Stack
+
+`Python` `FastAPI` `Whisper` `LLMs` `Pydantic`
+
+> Humans talk in paragraphs.
+> APIs want JSON.
+> I solve the relationship problem. 😂
 
 ---
 
 ## 🎓 AI Study Assistant
 
-A personal AI learning platform designed to help users understand technical topics, summarize learning materials, generate questions, and practice through interactive quizzes.
+An AI-powered learning assistant that allows students to interact with their study materials.
 
-The system combines document retrieval with LLM-powered content generation.
+### Features
 
-### Key Features
-
-* 📚 Learning material ingestion
-* 🔎 Semantic retrieval
-* 🤖 AI tutor
+* 📚 Document-based Q&A
+* 🧠 RAG
+* ✨ Summarization
 * ❓ Question generation
-* 📝 Multiple-choice question generation
-* 🎯 Topic-based learning
-* 📋 Summary generation
-* 🧩 Difficulty-based question generation
-* 📊 Quiz generation
+* 📝 MCQ generation
+* 🎯 Difficulty-based questions
+* 🔎 Semantic search
 * 💬 Conversational learning
-* 📚 RAG-powered answers
 
-### Architecture
+### Tech Stack
 
-```text
-                    Learning Material
-                           │
-                           ▼
-                   Document Processing
-                           │
-                           ▼
-                  Chunking + Embeddings
-                           │
-                           ▼
-                    Vector Database
-                           │
-                           ▼
-                     User Question
-                           │
-                           ▼
-                       Retriever
-                           │
-                           ▼
-                          LLM
-                           │
-             ┌─────────────┼─────────────┐
-             ▼             ▼             ▼
-          Answer        Summary         Quiz
-```
+`Python` `LangChain` `RAG` `Vector DB` `LLMs` `FastAPI`
+
+> Student: "I don't understand this."
+
+> AI: explains.
+
+> Student: "Still don't understand."
+
+> AI: explains again.
+
+> Student: "Explain like I'm 5."
+
+> AI: **internally questioning its career choices.** 😂
 
 ---
 
-## 🧾 AI Resume & Job Description Analyzer
+## 📄 AI Resume & Job Description Analyzer
 
-A personal Generative AI application that analyzes resumes and job descriptions to extract skills, compare technical requirements, and generate structured interview preparation material.
+An AI-powered application that compares resumes with job descriptions and identifies relevant skills.
 
-### Key Features
+### Features
 
 * 📄 Resume parsing
-* 📋 Job description parsing
-* 🧠 Skill extraction
-* 🔎 Semantic similarity
-* 📊 Skill comparison
-* 📝 Interview question generation
-* 🤖 LLM-based analysis
-* 📦 Structured JSON output
-* 💬 Interview preparation assistant
+* 💼 Job description analysis
+* 🔎 Skill extraction
+* 🧠 Semantic matching
+* 📊 Skill-gap analysis
+* 📝 Resume improvement suggestions
+* 🎯 Keyword identification
 
-### Architecture
+### Tech Stack
 
-```text
-              Resume
-                │
-                ▼
-          Document Parser
-                │
-                ▼
-        Information Extraction
-                │
-                ▼
-           Skill Mapping
-                │
-                │
-                ▼
-        ┌─────────────────┐
-        │ Comparison      │
-        │ Engine          │
-        └────────┬────────┘
-                 │
-                ▲
-                │
-       Job Description
-                │
-                ▼
-               LLM
-                │
-        ┌───────┼────────┐
-        ▼       ▼        ▼
-      Skills   Gaps   Questions
-```
+`Python` `FastAPI` `LLMs` `Embeddings` `RAG` `Vector Search`
+
+> Recruiter: **"We need 5 years of experience."**
+
+> Candidate: **"The technology has existed for 2 years."**
+
+> Recruiter: **"Next candidate."** 😂
 
 ---
 
-## 🎙️ Voice-to-Structured-Data AI
+## 🧪 Local LLM & RAG Playground
 
-A personal experiment exploring how spoken language can be converted into structured information using speech recognition and Large Language Models.
+A local environment for experimenting with open-source LLMs, embeddings, RAG pipelines and prompt engineering.
 
-The project focuses on transforming natural language into predictable and validated JSON structures.
+### Experiments
 
-### Key Features
-
-* 🎙️ Speech-to-text
-* 🧠 LLM-based information extraction
-* 📦 Structured JSON generation
-* ✅ Schema validation
-* 🔄 Prompt engineering
-* 🚨 Missing-field detection
-* 🛠️ API-based AI pipeline
-* 🔍 Information normalization
-
-### Architecture
-
-```text
-                    Voice Input
-                         │
-                         ▼
-                   Speech-to-Text
-                         │
-                         ▼
-                    Text Processing
-                         │
-                         ▼
-                         LLM
-                         │
-                         ▼
-                  Structured JSON
-                         │
-                         ▼
-                   Schema Validation
-                         │
-                         ▼
-                    Final Result
-```
-
----
-
-## 🛠️ Local LLM & RAG Playground
-
-A personal experimentation platform for working with local and API-based Large Language Models.
-
-The project is used to explore model behavior, prompting, embeddings, retrieval, latency, and response quality.
-
-### Areas Explored
-
-* 🧠 Local LLM inference
-* 🦙 Ollama
-* 🤗 Open-source models
-* ✍️ Prompt engineering
-* 🌡️ Temperature tuning
-* 🎯 Top-K sampling
-* 🎯 Top-P sampling
-* 🧠 Embeddings
+* 🦙 Local LLM inference
+* 🧠 Embedding models
 * 🔎 Vector search
 * 📚 RAG pipelines
-* 📊 Model evaluation
-* ⚡ Response optimization
-* 🪙 Token optimization
+* ✍️ Prompt optimization
+* 📊 Retrieval evaluation
+* ⚡ Model performance testing
+* 🧪 Different chunking strategies
+
+### Tech Stack
+
+`Python` `Ollama` `Hugging Face` `FAISS` `LangChain`
+
+> Running an LLM locally because apparently AWS bills also need a RAG pipeline. 💸😂
 
 ---
 
-# 🧩 AI Engineering Architecture
+# 🏗️ How My AI Brain Usually Works
 
-I focus on building AI applications beyond simple chatbot implementations.
-
-My typical architecture connects **LLMs with enterprise data, retrieval systems, APIs, tools, and application workflows**.
+Most of my AI applications follow something like this:
 
 ```text
-                         User
-                           │
-                           ▼
-                    Web / Application
-                           │
-                           ▼
-                       API Layer
-                           │
-              ┌────────────┴────────────┐
-              │                         │
-              ▼                         ▼
-        AI Workflow              Business Logic
-              │
-       ┌──────┴───────┐
-       │              │
-       ▼              ▼
-   Retrieval      Tools / APIs
-       │              │
-       ▼              ▼
- Vector Database   External Systems
-       │
-       ▼
- Context Builder
-       │
-       ▼
-      LLM
-       │
-       ▼
- Structured Response
-       │
-       ▼
- Validation
-       │
-       ▼
- Human / Application
+                  ┌────────────────┐
+                  │   User Input   │
+                  └───────┬────────┘
+                          ↓
+                  ┌────────────────┐
+                  │ Query Analysis │
+                  └───────┬────────┘
+                          ↓
+               ┌──────────────────────┐
+               │   Agent / RAG Router │
+               └──────────┬───────────┘
+                          ↓
+         ┌────────────────┴────────────────┐
+         ↓                                 ↓
+┌─────────────────┐               ┌─────────────────┐
+│  Vector Search  │               │  Tool Calling   │
+└────────┬────────┘               └────────┬────────┘
+         ↓                                 ↓
+┌─────────────────┐               ┌─────────────────┐
+│ Retrieved       │               │ External API /  │
+│ Context         │               │ Database / Tool │
+└────────┬────────┘               └────────┬────────┘
+         └────────────────┬────────────────┘
+                          ↓
+                  ┌────────────────┐
+                  │      LLM       │
+                  └───────┬────────┘
+                          ↓
+                  ┌────────────────┐
+                  │   Validation   │
+                  └───────┬────────┘
+                          ↓
+                  ┌────────────────┐
+                  │ Final Response │
+                  └────────────────┘
 ```
+
+> User asks a question.
+
+> Router decides what to do.
+
+> Agent decides what to do next.
+
+> Retriever finds context.
+
+> LLM generates an answer.
+
+> Validator checks it.
+
+> **Everyone hopes production doesn't explode.** 🚀😂
 
 ---
 
-# 🔬 GenAI Concepts I Work With
+# 🔥 Currently Learning
 
-### Retrieval-Augmented Generation
+* Advanced LangGraph
+* Multi-Agent Architectures
+* Model Context Protocol (MCP)
+* Agentic RAG
+* Advanced RAG Evaluation
+* LLM Observability
+* AI Security
+* Production AI Deployment
+* LoRA / QLoRA
+* AI System Design
+
+> The AI industry changes every week.
+
+> I learn one framework.
+
+> Two days later:
+
+> **"Introducing our revolutionary new framework."** 💀
+
+---
+
+# 🧠 Things I Actually Enjoy Building
 
 ```text
-User Query
-    ↓
-Query Embedding
-    ↓
-Vector Search
-    ↓
-Relevant Documents
-    ↓
-Context Construction
-    ↓
-LLM
-    ↓
-Grounded Response
+RAG Systems
+     ↓
+AI Agents
+     ↓
+Multi-Agent Systems
+     ↓
+LLM Applications
+     ↓
+Automation
+     ↓
+Systems that reduce boring human work
 ```
 
-### Agentic AI
+> If it involves an API, an LLM, a vector database and questionable amounts of debugging...
 
-```text
-User Request
-     ↓
-Agent
-     ↓
-Reasoning / Planning
-     ↓
-Tool Selection
-     ↓
-Tool Execution
-     ↓
-Observation
-     ↓
-Next Action
-     ↓
-Final Response
-```
-
-### Structured LLM Output
-
-```text
-Natural Language
-       ↓
-      LLM
-       ↓
-Structured Schema
-       ↓
-Validation
-       ↓
-Application Logic
-```
+> **I'm probably interested.** 😂
 
 ---
 
-# 🧪 LLM Evaluation & Optimization
-
-I explore different techniques for improving the reliability and efficiency of LLM applications.
-
-### Evaluation
-
-* Retrieval relevance
-* Answer accuracy
-* Faithfulness
-* Context relevance
-* Groundedness
-* Hallucination detection
-* Response consistency
-
-### Optimization
-
-* Prompt optimization
-* Context optimization
-* Token reduction
-* Chunk-size optimization
-* Retrieval optimization
-* Temperature tuning
-* Top-K and Top-P tuning
-* Model selection
-* Latency optimization
-
----
-
-# 🛠️ Software Engineering Background
-
-Before focusing heavily on Generative AI, I built production applications using modern backend and full-stack technologies.
-
-### Backend
-
-* Node.js
-* Express.js
-* REST APIs
-* WebSockets
-* Microservices
-* Authentication
-* API integrations
-
-### Databases
-
-* MongoDB
-* MySQL
-* PostgreSQL
-* Redis
-
-### Cloud & Infrastructure
-
-* AWS
-* Docker
-* Nginx
-* Linux
-* PM2
-* Jenkins
-* GitHub Actions
-
-This software engineering background helps me build **production-oriented AI applications instead of isolated AI prototypes**.
-
----
-
-# 📦 Open Source Projects
-
-## 🧰 port-fix-cli
-
-A command-line utility that identifies and terminates processes occupying a specific network port.
-
-```bash
-npm install -g port-fix-cli
-```
-
-🔗 [https://www.npmjs.com/package/port-fix-cli](https://www.npmjs.com/package/port-fix-cli)
-
----
-
-## 📁 express-flex-file-server
-
-Flexible middleware for secure and configurable file serving in Express.js applications.
-
-### Features
-
-* Secure static file serving
-* Configurable paths
-* Stream-based delivery
-* Easy Express.js integration
-* Express.js middleware support
-
-🔗 [https://www.npmjs.com/package/express-flex-file-server](https://www.npmjs.com/package/express-flex-file-server)
-
----
-
-## 📁 pdf-highlight-extractor
-
-A Python utility for extracting highlighted content from PDF documents.
-
-### Features
-
-* PDF processing
-* Highlight extraction
-* Document parsing
-* Text extraction
-* AI-ready document preprocessing
-
-🔗 [https://pypi.org/project/pdf-highlight-extractor/](https://pypi.org/project/pdf-highlight-extractor/)
-
----
-
-# 📊 GitHub Stats
+# 💻 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachinabs&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinabs&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinabs&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachinabs&theme=transparent" />
 </p>
 
 ---
 
-# 📈 Current Learning & Exploration
+# 📈 Contribution Graph
 
-I'm currently focusing on:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinabs&theme=github-compact" />
+</p>
 
-* 🤖 Advanced AI agents
-* 🔀 LangGraph workflows
-* 🛠️ Model Context Protocol (MCP)
-* 📚 Advanced RAG architectures
-* 🔎 Hybrid search
-* 🧠 Reranking
-* 🧪 LLM evaluation
-* ⚡ LLM optimization
-* 🧩 Tool-using agents
-* ☁️ Production AI deployments
-* 🐳 AI applications with Docker
-* 🐍 Python backend development
-* 🚀 FastAPI-based AI services
+---
+
+# 🛠️ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,react,nextjs,fastapi,docker,aws,git,github,vscode" />
+
+</p>
 
 ---
 
 # 📫 Connect With Me
 
-* 📧 Email: [anishbalasachin.ai@gmail.com](mailto:anishbalasachin.ai@gmail.com)
-* 💻 GitHub: [https://github.com/sachinabs](https://github.com/sachinabs)
-* 📦 npm: [https://www.npmjs.com/package/port-fix-cli](https://www.npmjs.com/package/port-fix-cli)
-* 📁 npm: [https://www.npmjs.com/package/express-flex-file-server](https://www.npmjs.com/package/express-flex-file-server)
-* 🐍 PyPI: [https://pypi.org/project/pdf-highlight-extractor/](https://pypi.org/project/pdf-highlight-extractor/)
-
----
-
-# ⭐ What I Build
-
 <p align="center">
 
-**Generative AI • LLM Applications • RAG • AI Agents • Document Intelligence • AI Automation • Python • FastAPI • Backend Systems • Cloud Applications**
+<a href="https://github.com/sachinabs">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/anish-r-100982435/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </p>
-
-I enjoy building **production-oriented AI systems that connect Large Language Models with real-world data, retrieval systems, APIs, tools, and software workflows.**
 
 ---
 
 <p align="center">
-  <b>💡 Build • Learn • Experiment • Ship</b>
+
+### 🚀 Build → Break → Google → Fix → Deploy → Repeat
+
+**Generative AI Engineer | LLMs | RAG | Agents | Python**
+
 </p>
-```
+
+<p align="center">
+  <i>Still waiting for the AI that can fix my bugs without creating three new ones.</i> 🤖💀
+</p>
