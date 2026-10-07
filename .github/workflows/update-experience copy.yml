@@ -1,0 +1,84 @@
+name: Update Experience - v3
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-experience:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Check repository
+        run: |
+          echo "update-----------------------"
+          echo "======================================"
+          echo "Current directory:"
+          pwd
+
+          echo "======================================"
+          echo "Repository files:"
+          ls -la
+
+          echo "======================================"
+          echo "Checking ReadMe.md:"
+          if [ -f "ReadMe.md" ]; then
+            echo "✅ ReadMe.md exists"
+            ls -lh ReadMe.md
+          else
+            echo "❌ ReadMe.md NOT FOUND"
+            exit 1
+          fi
+
+          echo "======================================"
+          echo "Checking Python script:"
+          if [ -f "scripts/update_experience.py" ]; then
+            echo "✅ update_experience.py exists"
+            ls -lh scripts/update_experience.py
+          else
+            echo "❌ update_experience.py NOT FOUND"
+            exit 1
+          fi
+
+      - name: Update experience
+        run: |
+          python3 scripts/update_experience.py
+
+      - name: Check README changes
+        run: |
+          echo "======================================"
+          echo "Git status:"
+          git status --short
+
+          echo "======================================"
+          echo "README diff:"
+          git diff -- ReadMe.md
+
+      - name: Commit updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add ReadMe.md
+
+          if git diff --cached --quiet; then
+            echo "No experience update needed"
+          else
+            echo "Changes detected:"
+            git diff --cached --stat
+
+            git commit -m "chore: update experience"
+
+            git push origin main
+
+            echo "✅ ReadMe.md updated and pushed successfully"
+          fi
