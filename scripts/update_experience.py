@@ -13,7 +13,7 @@ START_MONTH = 2
 SCRIPT_DIR = Path(__file__).resolve().parent
 REPO_ROOT = SCRIPT_DIR.parent
 
-README_PATH = REPO_ROOT / "README.md"
+README_PATH = REPO_ROOT / "ReadMe.md"
 
 today = date.today()
 

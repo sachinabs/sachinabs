@@ -20,31 +20,64 @@ jobs:
 
       - name: Check repository
         run: |
+          echo "======================================"
           echo "Current directory:"
           pwd
 
+          echo "======================================"
           echo "Repository files:"
           ls -la
 
-          echo "README:"
-          ls -lh README.md
+          echo "======================================"
+          echo "Checking ReadMe.md:"
+          if [ -f "ReadMe.md" ]; then
+            echo "✅ ReadMe.md exists"
+            ls -lh ReadMe.md
+          else
+            echo "❌ ReadMe.md NOT FOUND"
+            exit 1
+          fi
 
-          echo "Script:"
-          ls -lh scripts/update_experience.py
+          echo "======================================"
+          echo "Checking Python script:"
+          if [ -f "scripts/update_experience.py" ]; then
+            echo "✅ update_experience.py exists"
+            ls -lh scripts/update_experience.py
+          else
+            echo "❌ update_experience.py NOT FOUND"
+            exit 1
+          fi
 
       - name: Update experience
-        run: python3 scripts/update_experience.py
+        run: |
+          python3 scripts/update_experience.py
+
+      - name: Check README changes
+        run: |
+          echo "======================================"
+          echo "Git status:"
+          git status --short
+
+          echo "======================================"
+          echo "README diff:"
+          git diff -- ReadMe.md
 
       - name: Commit updated README
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add README.md
+          git add ReadMe.md
 
           if git diff --cached --quiet; then
             echo "No experience update needed"
           else
+            echo "Changes detected:"
+            git diff --cached --stat
+
             git commit -m "chore: update experience"
+
             git push origin main
+
+            echo "✅ ReadMe.md updated and pushed successfully"
           fi
