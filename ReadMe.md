@@ -22,7 +22,7 @@
 
 ## 🧠 About Me
 
-I'm a Software Engineer with <!-- EXPERIENCE_START -->4.9<!-- EXPERIENCE_END --> years of industry experience, currently focused on **Generative AI and LLM application development**.
+I'm a Software Engineer with **4+ years of industry experience**, currently focused on **Generative AI and LLM application development**.
 
 I work on turning:
 
