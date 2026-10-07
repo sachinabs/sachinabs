@@ -18,6 +18,20 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Check repository
+        run: |
+          echo "Current directory:"
+          pwd
+
+          echo "Repository files:"
+          ls -la
+
+          echo "README:"
+          ls -lh README.md
+
+          echo "Script:"
+          ls -lh scripts/update_experience.py
+
       - name: Update experience
         run: python3 scripts/update_experience.py
 
