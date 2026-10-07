@@ -20,6 +20,7 @@ jobs:
 
       - name: Check repository
         run: |
+          echo "update-----------------------"
           echo "======================================"
           echo "Current directory:"
           pwd
