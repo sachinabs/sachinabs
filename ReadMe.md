@@ -13,6 +13,12 @@
 </p>
 
 ---
+<p align="center">
+  <img
+    src="./activity-graph.svg"
+    alt="GitHub Contribution Graph"
+  />
+</p>
 
 ## 🧠 About Me
 
