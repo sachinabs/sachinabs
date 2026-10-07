@@ -497,9 +497,10 @@ Systems that reduce boring human work
 ---
 
 <p align="center">
-
  **🚀 Build → Break → Google → Fix → Deploy → Repeat**
-
-**Generative AI Engineer | LLMs | RAG | Agents | Python**
- <i>Still waiting for the AI that can fix my bugs without creating three new ones.</i> 🤖💀
 </p>
+
+<p align="center">
+**Generative AI Engineer | LLMs | RAG | Agents | Python**
+</p>
+ <i>Still waiting for the AI that can fix my bugs without creating three new ones.</i> 🤖💀
