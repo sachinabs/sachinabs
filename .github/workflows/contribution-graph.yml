@@ -23,16 +23,19 @@ jobs:
 
       - name: Check generated files
         run: |
-          echo "Repository files:"
-          ls -la
+          echo "Checking generated files..."
 
-          echo "Checking activity graph:"
           if [ -f activity-graph.svg ]; then
-            echo "activity-graph.svg exists"
+            echo "✅ activity-graph.svg exists"
             ls -lh activity-graph.svg
           else
-            echo "activity-graph.svg NOT FOUND"
+            echo "❌ activity-graph.svg NOT FOUND"
             exit 1
+          fi
+
+          if [ -f activity-graph-mobile.svg ]; then
+            echo "✅ activity-graph-mobile.svg exists"
+            ls -lh activity-graph-mobile.svg
           fi
 
       - name: Commit contribution graph
