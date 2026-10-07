@@ -22,7 +22,7 @@
 
 ## 🧠 About Me
 
-I'm a Software Engineer with 4+ years of industry experience, currently focused on **Generative AI and LLM application development**.
+I'm a Software Engineer with <!-- EXPERIENCE_START -->4.9<!-- EXPERIENCE_END --> years of industry experience, currently focused on **Generative AI and LLM application development**.
 
 I work on turning:
 
@@ -461,19 +461,17 @@ Systems that reduce boring human work
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinabs&theme=github-compact" />
-</p>
-
----
-
 # 🛠️ Languages & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,react,nextjs,fastapi,docker,aws,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,javascript,nodejs,react,nextjs,fastapi,postgresql,mongodb,redis,rabbitmq,prisma,docker,aws,nginx,git,github,vscode" />
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=openai" />
 
 </p>
 
@@ -491,18 +489,17 @@ Systems that reduce boring human work
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="mailto:anishbalasachin.ai@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
 
 <p align="center">
 
-### 🚀 Build → Break → Google → Fix → Deploy → Repeat
+ **🚀 Build → Break → Google → Fix → Deploy → Repeat**
 
 **Generative AI Engineer | LLMs | RAG | Agents | Python**
-
-</p>
-
-<p align="center">
-  <i>Still waiting for the AI that can fix my bugs without creating three new ones.</i> 🤖💀
+ <i>Still waiting for the AI that can fix my bugs without creating three new ones.</i> 🤖💀
 </p>
